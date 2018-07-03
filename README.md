@@ -45,3 +45,7 @@ http://course.fast.ai/
 ## Week 3-4 
 Re-implement DL projects from my github
 https://github.com/llSourcell?tab=repositories
+
+# exetra info
+Help full places to get a print 
+https://en.wikipedia.org/wiki/Vector_space
