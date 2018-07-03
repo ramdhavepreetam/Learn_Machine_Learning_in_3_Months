@@ -47,5 +47,5 @@ Re-implement DL projects from my github
 https://github.com/llSourcell?tab=repositories
 
 # exetra info
-Help full places to get a print 
+Good information
 https://en.wikipedia.org/wiki/Vector_space
